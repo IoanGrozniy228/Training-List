@@ -17,6 +17,15 @@
         gap: 15px;
     }
     
+    body {
+        background: linear-gradient(135deg, #5473ff75 0%, #ffffff 100%);
+        margin: 0;
+        padding: 0;
+        min-height: 100vh; /* На всю высоту экрана */
+        font-family: Arial, sans-serif;
+        color: white;
+    }
+    
     .btn {
         background-color: rgba(255,255,255,0.2);
         border: 1px solid rgba(255,255,255,0.3);
